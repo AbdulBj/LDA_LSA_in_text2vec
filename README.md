@@ -1,1 +1,1 @@
-# LDA_LSA_in_text2vec
+# Trying text2vec package in movie reviews with LDA/LSA
